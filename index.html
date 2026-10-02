@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="THEGCTC — curated home decor, lighting, wall art, textiles and accents for warm, modern spaces." />
+  <title>THEGCTC — Home Decor & Interior Accents</title>
+  <link rel="icon" href="assets/favicon.jpg" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="announcement">Free design guidance • Curated home decor • 60+ curated pieces • Prices checked October 1, 2026</div>
+
+  <header class="site-header">
+    <a class="brand" href="#top" aria-label="THEGCTC home">
+      <img src="assets/logo.png" alt="THEGCTC logo" />
+      <span>THEGCTC</span>
+    </a>
+    <nav class="nav-links" aria-label="Main navigation">
+      <a href="#shop">Shop</a>
+      <a href="#collections">Collections</a>
+      <a href="#about">About</a>
+      <a href="#contact">Advisory</a>
+    </nav>
+    <div class="header-actions">
+      <button class="icon-btn" id="searchToggle" aria-label="Focus search">⌕</button>
+      <button class="cart-btn" id="cartButton" aria-label="Open cart">Bag <span id="cartCount">0</span></button>
+    </div>
+  </header>
+
+  <main id="top">
+    <section class="hero">
+      <img class="hero-image" src="assets/hero.webp" alt="Warm modern living room with layered home decor" />
+      <div class="hero-overlay"></div>
+      <div class="hero-content">
+        <p class="eyebrow">CURATED HOME DECOR</p>
+        <h1>Make your space<br/>feel like <em>home.</em></h1>
+        <p>Modern accents, natural textures and statement pieces selected to bring warmth, balance and personality to every room.</p>
+        <div class="hero-cta">
+          <a class="btn primary" href="#shop">Shop the collection</a>
+          <a class="btn glass" href="#contact">Get design advice</a>
+        </div>
+      </div>
+      <div class="hero-note">Thoughtful details. Beautiful spaces.</div>
+    </section>
+
+    <section class="trust-strip" aria-label="Store benefits">
+      <div><strong>Curated selection</strong><span>Modern, warm & timeless pieces</span></div>
+      <div><strong>Real market references</strong><span>Product links & current observed prices</span></div>
+      <div><strong>Design advisory</strong><span>Help choosing pieces for your space</span></div>
+      <div><strong>Responsive experience</strong><span>Designed for desktop & mobile</span></div>
+    </section>
+
+    <section class="collections section" id="collections">
+      <div class="section-heading">
+        <div><p class="eyebrow dark">SHOP BY MOOD</p><h2>Collections for every room</h2></div>
+        <p>Build a room one detail at a time — from soft light and sculptural vases to mirrors, baskets and textiles.</p>
+      </div>
+      <div class="collection-grid">
+        <button class="collection-card" data-filter="Lighting"><span>01</span><h3>Soft Lighting</h3><p>Warm pools of light for evenings at home.</p></button>
+        <button class="collection-card" data-filter="Mirrors"><span>02</span><h3>Reflect & Expand</h3><p>Mirrors that brighten and visually open a room.</p></button>
+        <button class="collection-card" data-filter="Textiles"><span>03</span><h3>Layered Comfort</h3><p>Throws and cushion covers with quiet texture.</p></button>
+        <button class="collection-card" data-filter="Vases & Accents"><span>04</span><h3>Artful Accents</h3><p>Vases and objects made for shelves and tables.</p></button>
+      </div>
+    </section>
+
+    <section class="shop section" id="shop">
+      <div class="section-heading shop-heading">
+        <div><p class="eyebrow dark">THE EDIT</p><h2>Curated home favorites</h2></div>
+        <p class="price-note">Prices shown are reference prices observed from the linked retailers and can change at any time. Product photography is loaded from each linked retailer page.</p>
+      </div>
+
+      <div class="shop-tools">
+        <div class="search-wrap"><span>⌕</span><input id="searchInput" type="search" placeholder="Search decor, mirrors, lamps..." aria-label="Search products" /></div>
+        <div class="filter-scroll" id="filters"></div>
+        <select id="sourceSelect" aria-label="Filter by retailer"></select>
+        <select id="sortSelect" aria-label="Sort products">
+          <option value="featured">Sort: Featured</option>
+          <option value="low">Price: Low to high</option>
+          <option value="high">Price: High to low</option>
+          <option value="name">Name: A–Z</option>
+        </select>
+      </div>
+
+      <div class="results-row"><span id="resultsCount">0 items</span><span>USD</span></div>
+      <div class="product-grid" id="productGrid" aria-live="polite"></div>
+    </section>
+
+    <section class="advisory section" id="contact">
+      <div class="advisory-card">
+        <div>
+          <p class="eyebrow">PERSONAL DESIGN ADVISORY</p>
+          <h2>Not sure what works together?</h2>
+          <p>Tell us your room, colors and budget. Our design advisory line can help you build a coordinated look without overthinking every detail.</p>
+          <div class="advisory-actions">
+            <a class="btn cream" href="tel:+15715550146">Call +1 (571) 555-0146</a>
+            <a class="text-link" href="mailto:hello@thegctc.example">hello@thegctc.example →</a>
+          </div>
+        </div>
+        <div class="advisory-stat"><strong>60+</strong><span>curated products</span><strong>8</strong><span>home categories</span></div>
+      </div>
+    </section>
+
+    <section class="about section" id="about">
+      <div class="about-grid">
+        <div><p class="eyebrow dark">OUR POINT OF VIEW</p><h2>Warm minimalism, without the cold.</h2></div>
+        <div><p>THEGCTC brings together earthy neutrals, natural fibers, tactile ceramics and thoughtful lighting. The goal is simple: rooms that feel polished, but still lived in.</p><p class="muted">This project is a storefront demo. External product photography and pricing are referenced live from the linked retailers. Confirm image usage rights, inventory and final pricing before commercial launch.</p></div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="footer-brand"><img src="assets/logo.png" alt="" /><div><strong>THEGCTC</strong><span>Beautiful details for every corner of your home.</span></div></div>
+    <div><strong>Explore</strong><a href="#shop">Shop all</a><a href="#collections">Collections</a><a href="#about">About</a></div>
+    <div><strong>Contact</strong><a href="tel:+15715550146">Design Advisory</a><a href="mailto:hello@thegctc.example">Email us</a><span>Mon–Sat · 9am–6pm ET</span></div>
+    <div><strong>Note</strong><span>Demo storefront. Replace placeholder phone/email before launch.</span></div>
+    <p class="copyright">© 2026 THEGCTC. Demo project.</p>
+  </footer>
+
+  <aside class="cart-drawer" id="cartDrawer" aria-hidden="true">
+    <div class="cart-head"><h2>Your bag</h2><button id="cartClose" aria-label="Close cart">×</button></div>
+    <div id="cartItems" class="cart-items"></div>
+    <div class="cart-foot"><div><span>Subtotal</span><strong id="cartTotal">$0.00</strong></div><button class="btn primary full" id="checkoutBtn">Demo checkout</button><small>Checkout is disabled in this demo.</small></div>
+  </aside>
+  <div class="scrim" id="scrim"></div>
+
+  <div class="toast" id="toast" role="status"></div>
+  <script src="app.js"></script>
+</body>
+</html>

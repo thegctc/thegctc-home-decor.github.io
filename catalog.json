@@ -1,0 +1,622 @@
+[
+  {
+    "id": "fado",
+    "name": "FADO Table Lamp",
+    "category": "Lighting",
+    "price": 29.99,
+    "source": "IKEA",
+    "desc": "White globe lamp for soft, diffused ambient light.",
+    "url": "https://www.ikea.com/us/en/p/fado-table-lamp-white-70096377/",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "tarnaby",
+    "name": "TÄRNABY Table Lamp",
+    "category": "Lighting",
+    "price": 34.99,
+    "source": "IKEA",
+    "desc": "Dimmable anthracite lamp with a nostalgic lantern silhouette.",
+    "url": "https://www.ikea.com/us/en/p/taernaby-table-lamp-dimmable-anthracite-00323887/",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "varptross-table",
+    "name": "VARPTROSS Table Lamp",
+    "category": "Lighting",
+    "price": 39.99,
+    "source": "IKEA",
+    "desc": "Bamboo table lamp that adds natural texture and warm light.",
+    "url": "https://www.ikea.com/us/en/p/varptross-table-lamp-bamboo-50601240/",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "stockholm-table",
+    "name": "STOCKHOLM 2025 Table Lamp",
+    "category": "Lighting",
+    "price": 109.99,
+    "source": "IKEA",
+    "desc": "Statement lamp in white textile with brass-plated details.",
+    "url": "https://www.ikea.com/us/en/p/stockholm-2025-table-lamp-white-textile-brass-plated-80585936/",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "stockholm-floor",
+    "name": "STOCKHOLM 2025 Floor Lamp",
+    "category": "Lighting",
+    "price": 169.99,
+    "source": "IKEA",
+    "desc": "Tall white textile floor lamp with brass-plated detailing.",
+    "url": "https://www.ikea.com/us/en/p/stockholm-2025-floor-lamp-white-textile-brass-plated-00585921/",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "vidja-floor",
+    "name": "VIDJA Floor Lamp",
+    "category": "Lighting",
+    "price": 69.99,
+    "source": "IKEA",
+    "desc": "Soft white column floor lamp that creates an even ambient glow.",
+    "url": "https://www.ikea.com/us/en/p/vidja-floor-lamp-white-10309206/",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "vindkast-floor",
+    "name": "VINDKAST Floor Lamp",
+    "category": "Lighting",
+    "price": 59.99,
+    "source": "IKEA",
+    "desc": "Cloudlike white floor lamp with a soft sculptural shade.",
+    "url": "https://www.ikea.com/us/en/p/vindkast-floor-lamp-white-60539097/",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "kinnahult-floor",
+    "name": "KINNAHULT Floor Lamp",
+    "category": "Lighting",
+    "price": 89.99,
+    "source": "IKEA",
+    "desc": "Ash and white floor lamp with a warm Scandinavian profile.",
+    "url": "https://www.ikea.com/us/en/p/kinnahult-floor-lamp-ash-white-20559266/",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "varptross-floor",
+    "name": "VARPTROSS Floor Lamp",
+    "category": "Lighting",
+    "price": 109.99,
+    "source": "IKEA",
+    "desc": "Natural bamboo floor lamp with a warm hand-crafted look.",
+    "url": "https://www.ikea.com/us/en/p/varptross-floor-lamp-bamboo-60601225/",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "lauters-floor",
+    "name": "LAUTERS Floor Lamp",
+    "category": "Lighting",
+    "price": 79.99,
+    "source": "IKEA",
+    "desc": "Ash and white tripod-inspired floor lamp for warm modern rooms.",
+    "url": "https://www.ikea.com/us/en/p/lauters-floor-lamp-ash-white-00405048/",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "arstid-floor",
+    "name": "ÅRSTID Floor Lamp",
+    "category": "Lighting",
+    "price": 89.99,
+    "source": "IKEA",
+    "desc": "Classic brass-and-white floor lamp with a timeless fabric shade.",
+    "url": "https://www.ikea.com/us/en/p/arstid-floor-lamp-brass-white-60321324/",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "akterspring-floor",
+    "name": "AKTERSPRING Floor Lamp",
+    "category": "Lighting",
+    "price": 99.99,
+    "source": "IKEA",
+    "desc": "Opal glass and brass-plated floor lamp with an elegant modern silhouette.",
+    "url": "https://www.ikea.com/us/en/p/akterspring-floor-lamp-opal-glass-brass-plated-00618808/",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "vaterbom-table",
+    "name": "VATERBOM Table Lamp",
+    "category": "Lighting",
+    "price": 49.99,
+    "source": "IKEA",
+    "desc": "Bamboo and rattan table lamp with relaxed natural texture.",
+    "url": "https://www.ikea.com/us/en/p/vaterbom-table-lamp-bamboo-rattan-30618388/",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "boja-table",
+    "name": "BÖJA Table Lamp",
+    "category": "Lighting",
+    "price": 69.99,
+    "source": "IKEA",
+    "desc": "Handmade bamboo table lamp that filters light through woven fibers.",
+    "url": "https://www.ikea.com/us/en/p/boeja-table-lamp-bamboo-handmade-90155040/",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "target-paper-floor",
+    "name": "Paper Floor Lamp Natural Wood",
+    "category": "Lighting",
+    "price": 50.0,
+    "source": "Target",
+    "desc": "Natural wood floor lamp with a cylindrical paper shade.",
+    "url": "https://www.target.com/p/paper-floor-lamp-natural-wood-room-essentials-8482/-/A-89651326",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "target-shelf-floor",
+    "name": "Shelf Floor Lamp Black",
+    "category": "Lighting",
+    "price": 40.0,
+    "source": "Target",
+    "desc": "Black floor lamp with display shelves and a white fabric shade.",
+    "url": "https://www.target.com/p/-/A-78655318",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "lindbyn",
+    "name": "LINDBYN Round Mirror",
+    "category": "Mirrors",
+    "price": 149.99,
+    "source": "IKEA",
+    "desc": "Large black round mirror with a clean, contemporary profile.",
+    "url": "https://www.ikea.com/us/en/p/lindbyn-mirror-black-30506116/",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "hovet",
+    "name": "HOVET Full-Length Mirror",
+    "category": "Mirrors",
+    "price": 169.99,
+    "source": "IKEA",
+    "desc": "Oversized aluminum mirror for bedrooms, entries and dressing areas.",
+    "url": "https://www.ikea.com/us/en/p/hovet-mirror-aluminum-40507196/",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "kandlenot",
+    "name": "KANDLENÖT Rattan Mirror",
+    "category": "Mirrors",
+    "price": 149.99,
+    "source": "IKEA",
+    "desc": "Tall rattan-framed mirror with a relaxed natural look.",
+    "url": "https://www.ikea.com/us/en/p/kandlenoet-mirror-rattan-80611011/",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "pingstsyren",
+    "name": "PINGSTSYREN Mirror",
+    "category": "Mirrors",
+    "price": 119.99,
+    "source": "IKEA",
+    "desc": "Tall white wall mirror with a softly framed modern look.",
+    "url": "https://www.ikea.com/us/en/p/pingstsyren-mirror-white-50610094/",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "liljetrad",
+    "name": "LILJETRÄD Mirror",
+    "category": "Mirrors",
+    "price": 24.99,
+    "source": "IKEA",
+    "desc": "Slim white full-length mirror for compact bedrooms and entries.",
+    "url": "https://www.ikea.com/us/en/p/liljetraed-mirror-white-80592102/",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "nissedal",
+    "name": "NISSEDAL Mirror",
+    "category": "Mirrors",
+    "price": 99.99,
+    "source": "IKEA",
+    "desc": "Large white rectangular mirror with a clean adaptable frame.",
+    "url": "https://www.ikea.com/us/en/p/nissedal-mirror-white-30503778/",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "athome-basket-mirror",
+    "name": "Metallic Basket Weave Mirror",
+    "category": "Mirrors",
+    "price": 39.99,
+    "source": "At Home",
+    "desc": "Gold-tone basket-weave accent mirror with graphic texture.",
+    "url": "https://www.athome.com/metallic-basket-weave-mirror-22x28/124407448.html",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "target-hatherleigh",
+    "name": "Hatherleigh Basket Arch Wall Mirror",
+    "category": "Mirrors",
+    "price": 219.99,
+    "source": "Target",
+    "desc": "Gold arched wall mirror with a bold basket-inspired frame.",
+    "url": "https://www.target.com/p/24-34-x36-34-hatherleigh-basket-arch-wall-mirror-gold-kate-38-laurel-all-things-decor/-/A-90571029",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "konstfull",
+    "name": "KONSTFULL Glass Vase",
+    "category": "Vases & Accents",
+    "price": 24.99,
+    "source": "IKEA",
+    "desc": "Green-brown glass vase with a softly sculpted shape.",
+    "url": "https://www.ikea.com/us/en/p/konstfull-vase-green-brown-10511963/",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "pomp",
+    "name": "POMP Vase / Candle Holder",
+    "category": "Vases & Accents",
+    "price": 9.99,
+    "source": "IKEA",
+    "desc": "Mouth-blown clear glass piece that works as a vase or lantern.",
+    "url": "https://www.ikea.com/us/en/p/pomp-vase-candle-holder-clear-glass-80326537/",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "target-vase-set",
+    "name": "3-Piece Ceramic Vase Set",
+    "category": "Vases & Accents",
+    "price": 20.0,
+    "source": "Target",
+    "desc": "Three modern white ceramic cylinder vases in varied heights.",
+    "url": "https://www.target.com/p/3pc-vase-set-ceramic-cylinder-white-room-essentials-8482/-/A-92357020",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "bamboo-vase",
+    "name": "Neutral Bamboo Vase",
+    "category": "Vases & Accents",
+    "price": 29.99,
+    "source": "At Home",
+    "desc": "Rounded white bamboo vase with warm natural texture.",
+    "url": "https://www.athome.com/neutral-bamboo-vase-14/125040494.html",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "mirror-vase",
+    "name": "Crushed Mirror Glass Vase",
+    "category": "Vases & Accents",
+    "price": 29.99,
+    "source": "At Home",
+    "desc": "Reflective silver glass vase that adds a bright statement.",
+    "url": "https://www.athome.com/crushed-mirror-glass-vase-17.5/124157254.html",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "raffelbjork-vase-lg",
+    "name": "RÄFFELBJÖRK Vase 7¾\"",
+    "category": "Vases & Accents",
+    "price": 39.99,
+    "source": "IKEA",
+    "desc": "Luminous mother-of-pearl-color vase with an artful organic finish.",
+    "url": "https://www.ikea.com/us/en/p/raeffelbjoerk-vase-mother-of-pearl-color-00537652/",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "berakna-vase",
+    "name": "BERÄKNA Vase 17¾\"",
+    "category": "Vases & Accents",
+    "price": 39.99,
+    "source": "IKEA",
+    "desc": "Tall clear glass vase designed for long stems and statement arrangements.",
+    "url": "https://www.ikea.com/us/en/p/beraekna-vase-clear-glass-40327949/",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "cylinder-vases",
+    "name": "CYLINDER Vase Set of 3",
+    "category": "Vases & Accents",
+    "price": 24.99,
+    "source": "IKEA",
+    "desc": "Three clear glass cylinder vases for layered tabletop styling.",
+    "url": "https://www.ikea.com/us/en/p/cylinder-vase-set-of-3-clear-glass-60175092/",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "pelarbjork-vase",
+    "name": "PELARBJÖRK Vase",
+    "category": "Vases & Accents",
+    "price": 24.99,
+    "source": "IKEA",
+    "desc": "Sculptural white vase with a quiet contemporary form.",
+    "url": "https://www.ikea.com/us/en/p/pelarbjoerk-vase-white-50637729/",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "kopparbjork-vase",
+    "name": "KOPPARBJÖRK Vase",
+    "category": "Vases & Accents",
+    "price": 19.99,
+    "source": "IKEA",
+    "desc": "Light brown vase that brings an earthy tone to shelves and consoles.",
+    "url": "https://www.ikea.com/us/en/p/kopparbjoerk-vase-light-brown-30623262/",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "begarlig-vase",
+    "name": "BEGÄRLIG Vase",
+    "category": "Vases & Accents",
+    "price": 34.99,
+    "source": "IKEA",
+    "desc": "Tall clear glass vase with a clean elegant shape for floral displays.",
+    "url": "https://www.ikea.com/us/en/p/begaerlig-vase-clear-glass-30309781/",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "svartho",
+    "name": "SVARTHÖ Cushion Cover",
+    "category": "Textiles",
+    "price": 14.99,
+    "source": "IKEA",
+    "desc": "Beige 20×20 cushion cover with subtle texture.",
+    "url": "https://www.ikea.com/us/en/p/svarthoe-cushion-cover-beige-70336594/",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "hedsaev",
+    "name": "HEDSÄV Cushion Cover",
+    "category": "Textiles",
+    "price": 12.99,
+    "source": "IKEA",
+    "desc": "Off-white 20×20 cover for a soft layered sofa look.",
+    "url": "https://www.ikea.com/us/en/p/hedsaev-cushion-cover-off-white-10485577/",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "humlemott",
+    "name": "HUMLEMOTT Throw",
+    "category": "Textiles",
+    "price": 24.99,
+    "source": "IKEA",
+    "desc": "Cozy off-white throw sized for sofas, chairs and beds.",
+    "url": "https://www.ikea.com/us/en/p/humlemott-throw-off-white-00549546/",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "sorbyskogen",
+    "name": "SÖRBYSKOGEN Throw",
+    "category": "Textiles",
+    "price": 39.99,
+    "source": "IKEA",
+    "desc": "Textured off-white throw for a warm, coastal-inspired layer.",
+    "url": "https://www.ikea.com/us/en/p/soerbyskogen-throw-off-white-60623208/",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "target-woven-fringe",
+    "name": "Woven Fringe Throw Pillow",
+    "category": "Textiles",
+    "price": 25.0,
+    "source": "Target",
+    "desc": "Khaki-and-black woven throw pillow with fringe and a boho pattern.",
+    "url": "https://www.target.com/p/-/A-95009191",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "target-boucle-pillow",
+    "name": "Oversized Textured Cotton Pillow",
+    "category": "Textiles",
+    "price": 30.0,
+    "source": "Target",
+    "desc": "Oversized textured cotton pillow with a neutral linen reverse.",
+    "url": "https://www.target.com/p/-/A-94894671",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "target-shearling-pillow",
+    "name": "Oversized Faux Shearling Pillow",
+    "category": "Textiles",
+    "price": 30.0,
+    "source": "Target",
+    "desc": "Soft-density ivory faux shearling throw pillow for cozy layering.",
+    "url": "https://www.target.com/p/-/A-1006980710",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "target-linen-flange",
+    "name": "Square Linen Pillow with Flange",
+    "category": "Textiles",
+    "price": 25.0,
+    "source": "Target",
+    "desc": "Linen-cotton square pillow with flange detail and neutral reverse.",
+    "url": "https://www.target.com/p/-/A-94858732",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "satsumas",
+    "name": "SATSUMAS Plant Stand",
+    "category": "Plants & Storage",
+    "price": 59.99,
+    "source": "IKEA",
+    "desc": "Bamboo and white multi-level stand for indoor greenery.",
+    "url": "https://www.ikea.com/us/en/p/satsumas-plant-stand-bamboo-white-40258154/",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "satsumas-small",
+    "name": "SATSUMAS Small Plant Stand",
+    "category": "Plants & Storage",
+    "price": 24.99,
+    "source": "IKEA",
+    "desc": "Compact bamboo and white stand for a favorite plant.",
+    "url": "https://www.ikea.com/us/en/p/satsumas-plant-stand-bamboo-white-20624035/",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "skadis",
+    "name": "SKÅDIS Pegboard",
+    "category": "Plants & Storage",
+    "price": 24.99,
+    "source": "IKEA",
+    "desc": "Flexible white wall organizer for entries, desks or bathrooms.",
+    "url": "https://www.ikea.com/us/en/p/skadis-pegboard-white-00320803/",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "allmodern-basket",
+    "name": "Natural Seagrass Basket",
+    "category": "Plants & Storage",
+    "price": 39.0,
+    "source": "Wayfair",
+    "desc": "Handwoven natural seagrass basket with practical carry handles.",
+    "url": "https://www.wayfair.com/AllModern--Seagrass-Basket-X114485715-L1223-K~W003374604.html",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "real-simple-basket",
+    "name": "Round Seagrass Basket with Lid",
+    "category": "Plants & Storage",
+    "price": 29.99,
+    "source": "At Home",
+    "desc": "Neutral lidded basket for throws, toys or everyday storage.",
+    "url": "https://www.athome.com/real-simple-round-seagrass-basket-with-lid-medium/125034343.html",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "blodflader",
+    "name": "BLODFLÄDER Two Birds Picture",
+    "category": "Wall Art",
+    "price": 39.99,
+    "source": "IKEA",
+    "desc": "Framed nature-inspired wall art with two birds.",
+    "url": "https://www.ikea.com/us/en/p/blodflaeder-picture-two-birds-00601921/",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "athome-art",
+    "name": "Framed Vases Canvas Wall Art",
+    "category": "Wall Art",
+    "price": 59.99,
+    "source": "At Home",
+    "desc": "Neutral framed canvas art featuring decorative vases.",
+    "url": "https://www.athome.com/framed-vases-canvas-wall-art-30/124369589.html",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "vangogh-art",
+    "name": "Van Gogh “Vase with Sunflowers” Canvas",
+    "category": "Wall Art",
+    "price": 47.95,
+    "source": "Target",
+    "desc": "Gallery-wrapped reproduction of a classic sunflower still life.",
+    "url": "https://www.target.com/p/trademark-fine-art-vincent-van-gogh-vase-with-sunflowers-canvas-art/-/A-91009894",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "athome-wall-baskets",
+    "name": "Set of 3 Wall Baskets",
+    "category": "Wall Art",
+    "price": 59.99,
+    "source": "At Home",
+    "desc": "Warm natural rattan wall baskets arranged as a textured gallery set.",
+    "url": "https://www.athome.com/set-of-3-wall-baskets/125007301.html",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "athome-botanical-art",
+    "name": "Botanical Vases Canvas Wall Art",
+    "category": "Wall Art",
+    "price": 34.99,
+    "source": "At Home",
+    "desc": "Vertical botanical-and-vase canvas in a soft neutral palette.",
+    "url": "https://www.athome.com/botanical-vases-canvas-wall-art-16x32/124369463.html",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "athome-abstract-art",
+    "name": "Framed Abstract Canvas Wall Art",
+    "category": "Wall Art",
+    "price": 49.99,
+    "source": "At Home",
+    "desc": "Grey framed abstract canvas designed for modern neutral interiors.",
+    "url": "https://www.athome.com/framed-abstract-canvas-wall-art-25/124369854.html",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "nordstrom-seaglass-art",
+    "name": "Sea Glass Vases Framed Wall Art",
+    "category": "Wall Art",
+    "price": 79.0,
+    "source": "Nordstrom",
+    "desc": "Soft sea-glass inspired framed print with a calm coastal palette.",
+    "url": "https://www.nordstrom.com/s/deny-designs-sea-glass-vases-framed-wall-art/5964285",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "raeffelbjoerk-holder",
+    "name": "RÄFFELBJÖRK Candle Holder",
+    "category": "Candles & Decor",
+    "price": 5.99,
+    "source": "IKEA",
+    "desc": "Small mother-of-pearl-look candle holder with luminous texture.",
+    "url": "https://www.ikea.com/us/en/p/raeffelbjoerk-candle-holder-mother-of-pearl-color-30608501/",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "bhg-holder",
+    "name": "Gold Cast Iron Taper Candle Holder",
+    "category": "Candles & Decor",
+    "price": 11.14,
+    "source": "Walmart",
+    "desc": "Weighty gold-tone cast iron holder for a single taper candle.",
+    "url": "https://www.walmart.com/ip/Better-Homes-Garden-5-3-Gold-Cast-Iron-Taper-Candle-Holder-Medium/5326338865",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "athome-holder",
+    "name": "Natural Ceramic & Glass Candleholder",
+    "category": "Candles & Decor",
+    "price": 12.99,
+    "source": "At Home",
+    "desc": "Neutral ceramic candleholder with a simple pedestal profile.",
+    "url": "https://www.athome.com/natural-ceramic-glass-candleholder-7/125013680.html",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "floral",
+    "name": "Artificial Dried Mixed Floral Arrangement",
+    "category": "Candles & Decor",
+    "price": 14.97,
+    "source": "Walmart",
+    "desc": "Ready-made fall floral arrangement in a ceramic vase.",
+    "url": "https://www.walmart.com/ip/Better-Homes-Gardens-12-3-in-H-x-8-in-W-x-8-in-D-Fall-Floral-Arrangement-in-Ceramic-Vase/5459814904",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "godis",
+    "name": "GODIS Glass 6-Pack",
+    "category": "Dining & Table",
+    "price": 12.99,
+    "source": "IKEA",
+    "desc": "Six clear 14 oz glasses with a clean everyday shape.",
+    "url": "https://www.ikea.com/us/en/p/godis-glass-clear-glass-20092107/",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "dragon",
+    "name": "DRAGON 20-Piece Flatware Set",
+    "category": "Dining & Table",
+    "price": 19.99,
+    "source": "IKEA",
+    "desc": "Stainless steel flatware set with simple timeless lines.",
+    "url": "https://www.ikea.com/us/en/p/dragon-20-piece-flatware-set-stainless-steel-70091761/",
+    "checked": "Oct 1, 2026"
+  },
+  {
+    "id": "tray-set",
+    "name": "Decorative Tray, Vase & Candle Holder Set",
+    "category": "Dining & Table",
+    "price": 18.99,
+    "source": "Walmart",
+    "desc": "Coordinated three-piece table styling set in matte black.",
+    "url": "https://www.walmart.com/ip/Modern-Minimalist-Decorative-Tray-Sculptural-Vase-Set-Matte-Black-Round-Artistic-Flower-Vase-Home-Decor-Living-Room-Coffee-Table-Bathroom-Entryway/20066300182",
+    "checked": "Oct 1, 2026"
+  }
+]
